@@ -8,7 +8,7 @@ import android.widget.Button;
  * zhushi
  */
 public class MainActivity extends AppCompatActivity {
-    Button btu ;
+    Button btu ,btu1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
